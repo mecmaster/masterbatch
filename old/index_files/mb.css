@@ -1,0 +1,52 @@
+body,p,div{
+	font-size: 12pt;
+	font-family: Verdana, Geneva, sans-serif;
+}
+img{
+	border: 0;	
+}
+#page{
+	width: 700px;
+	margin: 0 auto;
+}
+p{
+	padding: 12px;
+	margin:0;
+}
+#about{
+	background-color: #D6DAE3;
+}
+#terms{
+}
+#details{
+	font-weight: bold;
+}
+}
+#logo{
+	display:block;
+	width:320px;
+	margin: 0 auto;	
+}
+#menu{
+	width:100%;
+}
+#menu ul{
+	display:block;
+	padding:0;
+}
+#menu li{
+	display: inline;	
+	padding: 12px;
+}
+h3{
+	font-size:12pt;
+	font-weight:bold;
+}
+.scheduledate{
+	background-color:#CFC;
+}
+.scheduleevent{
+	background-color:#FFFFEC;
+}
+	
+
